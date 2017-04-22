@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="hadoopmahout">
+    <CLASSES>
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-annotations-2.4.1.jar!/" />
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-auth-2.4.1.jar!/" />
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-common-2.4.1.jar!/" />
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-hdfs-2.4.1.jar!/" />
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-mapreduce-client-app-2.4.1.jar!/" />
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-mapreduce-client-common-2.4.1.jar!/" />
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-mapreduce-client-core-2.4.1.jar!/" />
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-mapreduce-client-jobclient-2.4.1.jar!/" />
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-mapreduce-client-shuffle-2.4.1.jar!/" />
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-yarn-api-2.4.1.jar!/" />
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-yarn-client-2.4.1.jar!/" />
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-yarn-common-2.4.1.jar!/" />
+      <root url="jar:///opt/mahout/mahout11/lib/hadoop/hadoop-yarn-server-common-2.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="xlsx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../xlsx/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../xlsx/poi-3.8-20120326.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../xlsx/poi-ooxml-3.8-20120326.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../xlsx/poi-ooxml-schemas-3.8-20120326.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../xlsx/xmlbeans-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

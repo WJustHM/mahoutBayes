@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes/BayesClassifyMapperdjj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes/ReadCSV.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes/ReadClusterWritable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes/ReadRrbiKV.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes/Seq2sparse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes/Splitrun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes/TestBayesClassifiedJobdjj.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes/TestModel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes/TestSeqdirectory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes/UploadFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes/seq2wordcount.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/bayes/train.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bayes" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bayes/classification/BayesClassifiedJobdjj.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bayes/deserialization/ReadClusterWritable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bayes/modeltrain/Seq2sparse.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bayes/modeltrain/TestModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bayes/modeltrain/TestSeqdirectory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bayes/modeltrain/train.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bayes/preparedata/ReadCSVtest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bayes/preparedata/ReadCSVtrain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/bayes/preparedata/UploadFile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fz/bayes/BayesClassifiedJob.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fz/bayes/BayesClassifyMapper.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fz/bayes/model/AnalyzeBayesModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fz/bayes/model/BayesClassifyJob.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fz/bayes/model/BayesJob1.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fz/bayes/model/BayesJob2.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fz/bayes/model/BayesRunner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fz/bayes/model/TFText2VectorWritable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fz/bayes/model/WriteIndexLabel.java" charset="GB2312" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
